@@ -1,0 +1,2 @@
+Unet for 500 epochs
+Epoch 1 / 500: Train Loss: 0.5225782990455627, Val Loss: 0.6013067960739136, Val Accuracy: 0.0029769721440970898 Dur: 8.80147385597229 Dur/Epoch: 0
