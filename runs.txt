@@ -1,0 +1,8 @@
+31: original dataset, IoI 0.8, DICE 0.9, Adam + L2, lr = 0.0001, BCEL, 256x256
+35: 200 images dataset, IoI 0.8, DICE 0.9, Adam + L2, lr = 0.0001, BCEL, 256x256
+45: original dataset, IoI 0.79, DICE 0.89, Adam + L2, lr = 0.0003, FL + JL, 256x256
+52: original dataset, IoI 0.74, DICE 0.85, Adam + L2, lr = 0.0001, BCEL, 416x416, resnet18
+-54: original dataset, no Augmentations, IoI 0., DICE 0., Adam + L2, lr = 0.0005, BCEL, 256x256, resnet18
+55: original dataset, Augmentations, IoI 0., DICE 0., Adam + L2, lr = 0.0003, BCEL, 256x256, resnet18
+56: original dataset, Augmentations, IoI 0., DICE 0., Adam + L2, lr = 0.0001, FL + JL, 256x256, resnet34
+57: original dataset, Augmentations, IoI 0., DICE 0., Adam + L2, lr = 0.0001, BCEL + JL, 256x256, resnet34

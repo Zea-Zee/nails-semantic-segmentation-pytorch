@@ -1,0 +1,2 @@
+Epoch,Epochs,Train Loss,Val Loss,Val IoU,Val DICE,Dur,Dur/Epoch
+1,100,0.46278271,0.51857507,0.0,0.0,1.661745,0

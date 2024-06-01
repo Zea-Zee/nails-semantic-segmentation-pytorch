@@ -3,9 +3,9 @@ import cv2
 import numpy as np
 
 
-images_dir = "./expanded_dataset/images"
-labels_dir = "./expanded_dataset/polygon_labels"
-output_dir = "./expanded_dataset/labels"
+images_dir = "./dataset-1000/images"
+labels_dir = "./dataset-1000/polygon_labels"
+output_dir = "./dataset-1000/labels"
 
 os.makedirs(output_dir, exist_ok=True)
 
